@@ -1,0 +1,25 @@
+#clock-container {
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: skyblue;
+}
+#message {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+#clock {
+  font-size: 6rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+#date {
+  font-size: 2rem;
+}
