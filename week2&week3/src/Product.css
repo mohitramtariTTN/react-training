@@ -1,7 +1,6 @@
-/* styles.css */
 body {
-    background-color: #f0f0f0; /* Set your desired background color */
-    font-family: Arial, sans-serif; /* Set your desired font */
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
   }
   
   .products-container {
@@ -11,9 +10,9 @@ body {
   }
   
   .product {
-    background-color: #fff; /* Set your desired background color */
+    background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow to the product box */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 200px;
     margin: 20px;
     padding: 20px;

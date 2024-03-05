@@ -34,7 +34,7 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Navbar cartItems={cartItems} />
+        <Navbar sticky="top" cartItems={cartItems} />
         <Routes>
           <Route path="/products" element={<Products addToCart={addToCart} />} />
           <Route path="/cart" element={<Cart cartItems={cartItems} />} />

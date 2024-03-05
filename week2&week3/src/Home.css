@@ -18,13 +18,11 @@ body {
     margin-bottom: 20px;
   }
   
-  /* Styles for React Store Welcome Message */
   .welcome-message {
     font-size: 24px;
     color: #666;
   }
   
-  /* Styles for Button (Optional) */
   .button {
     display: inline-block;
     padding: 10px 20px;
